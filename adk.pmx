@@ -1,10 +1,10 @@
 ---
-name: ADK
-description: Adkraken instance
+name: adk
+description: adk temp
 keywords: ''
 type: Default
 documentation: ''
 images:
-- name: asteris_apache-php-mongo_latest
-  source: asteris/apache-php-mongo:latest
+- name: adkraken_latest
+  source: adkraken:latest
   type: Default
