@@ -1,0 +1,10 @@
+---
+name: ADK
+description: Adkraken instance
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: asteris_apache-php-mongo_latest
+  source: asteris/apache-php-mongo:latest
+  type: Default
